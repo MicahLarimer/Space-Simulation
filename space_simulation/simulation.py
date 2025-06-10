@@ -25,43 +25,43 @@ planets = [
     {
         'Name': 'Mercury',
         'Mass': 3.285e23,
-        'Position (x, y, z)': [0.387 * AU, 0, 0],
-        'Velocity (vx, vy, vz)': [0, 47400, 0]
+        'Position (x, y, z)': [0.387 * AU * 2, 0, 0],
+        'Velocity (vx, vy, vz)': [0, 47400 * 2, 0]
     },
     # Venus
     {
         'Name': 'Venus',
         'Mass': 4.867e24,
-        'Position (x, y, z)': [0.723 * AU, 0, 0],
-        'Velocity (vx, vy, vz)': [0, 35000, 0]
+        'Position (x, y, z)': [0.723 * AU * 2, 0, 0],
+        'Velocity (vx, vy, vz)': [0, 35000 * 2, 0]
     },
     # Earth
     {
         'Name': 'Earth',
         'Mass': 5.972e24,
-        'Position (x, y, z)': [1.0 * AU, 0, 0],
-        'Velocity (vx, vy, vz)': [0, 29800, 0]
+        'Position (x, y, z)': [1.0 * AU * 2, 0, 0],
+        'Velocity (vx, vy, vz)': [0, 29800 * 2, 0]
     },
     # Mars
     {
         'Name': 'Mars',
         'Mass': 6.39e23,
-        'Position (x, y, z)': [1.524 * AU, 0, 0],
-        'Velocity (vx, vy, vz)': [0, 24100, 0]
+        'Position (x, y, z)': [1.524 * AU * 2, 0, 0],
+        'Velocity (vx, vy, vz)': [0, 24100 * 2, 0]
     },
     # Jupiter
     {
         'Name': 'Jupiter',
         'Mass': 1.898e27,
-        'Position (x, y, z)': [5.203 * AU, 0, 0],
-        'Velocity (vx, vy, vz)': [0, 13100, 0]
+        'Position (x, y, z)': [5.203 * AU * 2, 0, 0],
+        'Velocity (vx, vy, vz)': [0, 13100 * 2, 0]
     },
     # Saturn
     {
         'Name': 'Saturn',
         'Mass': 5.683e26,
-        'Position (x, y, z)': [9.537 * AU, 0, 0],
-        'Velocity (vx, vy, vz)': [0, 9700, 0]
+        'Position (x, y, z)': [9.537 * AU * 2, 0, 0],
+        'Velocity (vx, vy, vz)': [0, 9700 * 2, 0]
     }
 ]
 
