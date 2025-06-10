@@ -17,3 +17,4 @@ Run: `python main.py`
 Displays a 3D animation of planetary and asteroid orbits.
 
 ## Example Output
+![Screenshot 2025-06-10 103609](https://github.com/user-attachments/assets/6260b26d-d8b3-404e-878c-a4e3ecd819a7)
